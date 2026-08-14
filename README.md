@@ -9,9 +9,9 @@
 ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝
 ```
 
-### `writer.exe` • `photographer.exe` • `linux_user.exe`
+### `./writer` • `./photographer` • `./bulut`
 
-**surrealist writer · lyrical poet · photographer · designer · linux enjoyer**
+**surrealist writer · lyrical poet · photographer · designer · linux user**
 
 <br>
 
